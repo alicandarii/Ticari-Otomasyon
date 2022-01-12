@@ -1,0 +1,16 @@
+C:\Users\90539\Desktop\sql gui\TicariOtomasyon\TicariOtomasyon\bin\Debug\TicariOtomasyon.exe.config
+C:\Users\90539\Desktop\sql gui\TicariOtomasyon\TicariOtomasyon\bin\Debug\TicariOtomasyon.exe
+C:\Users\90539\Desktop\sql gui\TicariOtomasyon\TicariOtomasyon\bin\Debug\TicariOtomasyon.pdb
+C:\Users\90539\Desktop\sql gui\TicariOtomasyon\TicariOtomasyon\obj\Debug\TicariOtomasyon.csproj.AssemblyReference.cache
+C:\Users\90539\Desktop\sql gui\TicariOtomasyon\TicariOtomasyon\obj\Debug\TicariOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\90539\Desktop\sql gui\TicariOtomasyon\TicariOtomasyon\obj\Debug\TicariOtomasyon.Form1.resources
+C:\Users\90539\Desktop\sql gui\TicariOtomasyon\TicariOtomasyon\obj\Debug\TicariOtomasyon.Properties.Resources.resources
+C:\Users\90539\Desktop\sql gui\TicariOtomasyon\TicariOtomasyon\obj\Debug\TicariOtomasyon.csproj.GenerateResource.cache
+C:\Users\90539\Desktop\sql gui\TicariOtomasyon\TicariOtomasyon\obj\Debug\TicariOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\90539\Desktop\sql gui\TicariOtomasyon\TicariOtomasyon\obj\Debug\TicariOtomasyon.exe
+C:\Users\90539\Desktop\sql gui\TicariOtomasyon\TicariOtomasyon\obj\Debug\TicariOtomasyon.pdb
+C:\Users\90539\Desktop\sql gui\TicariOtomasyon\TicariOtomasyon\obj\Debug\TicariOtomasyon.Customers.resources
+C:\Users\90539\Desktop\sql gui\TicariOtomasyon\TicariOtomasyon\obj\Debug\TicariOtomasyon.Products.resources
+C:\Users\90539\Desktop\sql gui\TicariOtomasyon\TicariOtomasyon\obj\Debug\TicariOtomasyon.ProductChange.resources
+C:\Users\90539\Desktop\sql gui\TicariOtomasyon\TicariOtomasyon\obj\Debug\TicariOtomasyon.Stock.resources
+C:\Users\90539\Desktop\sql gui\TicariOtomasyon\TicariOtomasyon\obj\Debug\TicariOtomasyon.Order.resources
